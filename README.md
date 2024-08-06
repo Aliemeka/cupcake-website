@@ -1,5 +1,5 @@
 # Cupcake Website
 
-A simple cupcake website
+An awesome cupcake website
 
-A website to experiment on Git and GitHub
+An experiment on Git and GitHub
